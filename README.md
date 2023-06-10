@@ -1,5 +1,6 @@
 # Statistical-Models
 Statistical Model Course Assignments in R
+
 This repository contains assignments completed during a Statistical Model course that utilized the R programming language. The assignments were designed to apply statistical modeling techniques to real-world datasets, providing practical hands-on experience.
 
 Repository Structure
